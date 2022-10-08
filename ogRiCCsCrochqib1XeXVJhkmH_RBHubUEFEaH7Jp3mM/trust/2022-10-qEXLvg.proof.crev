@@ -1,0 +1,16 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-10-08T16:32:35.750168814-07:00
+from:
+  id-type: crev
+  id: ogRiCCsCrochqib1XeXVJhkmH_RBHubUEFEaH7Jp3mM
+  url: https://github.com/iamwacko/crev-proofs
+ids:
+- id-type: crev
+  id: FY1r8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: high
+----- SIGN CREV PROOF -----
+fV-9rrbf3wbT1avMPfvHMnR1-wxkrWaqH6JHqI2thmWtJtTRqkfInhdv89BWV5e-9-WvImGvGoPKbNP6Gs_IBQ
+----- END CREV PROOF -----
+
