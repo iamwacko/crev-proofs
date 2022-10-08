@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-10-08T14:44:09.374382297-07:00
+from:
+  id-type: crev
+  id: ogRiCCsCrochqib1XeXVJhkmH_RBHubUEFEaH7Jp3mM
+  url: https://github.com/iamwacko/crev-proofs
+package:
+  source: https://crates.io
+  name: seamapi-rs
+  version: 0.1.1
+  revision: f486b22d57fa87c48cf3aa3dc59d8d8183d2d512
+  digest: PFsGMrgWSB4Hxo0A1SDCfADFuQoUZVBQAlFJU2TVlro
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |-
+  I authored this crate, so take this with a grain of salt
+----- SIGN CREV PROOF -----
+67qHwRQrVbsnM6ycReIrZJWHkZgBzFR1VLVc77RWSMkiqjR6JFUaBxiu-8ePKx1rhoCJQTZPISjJi2rGHr-SBA
+----- END CREV PROOF -----
+
