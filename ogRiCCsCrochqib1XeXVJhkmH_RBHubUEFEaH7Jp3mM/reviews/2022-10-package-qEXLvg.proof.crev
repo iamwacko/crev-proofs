@@ -22,3 +22,27 @@ comment: |-
 67qHwRQrVbsnM6ycReIrZJWHkZgBzFR1VLVc77RWSMkiqjR6JFUaBxiu-8ePKx1rhoCJQTZPISjJi2rGHr-SBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-10-08T16:10:14.358876520-07:00
+from:
+  id-type: crev
+  id: ogRiCCsCrochqib1XeXVJhkmH_RBHubUEFEaH7Jp3mM
+  url: https://github.com/iamwacko/crev-proofs
+package:
+  source: https://crates.io
+  name: instant-akismet
+  version: 0.1.1
+  revision: c2f71abcbf798fed13a1e3231dd84fc4e359a457
+  digest: fPFIkBvvXsFBVtOTJSleAu6eCiC5fIK5Z8cpefBVLe4
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  No unsafe or malicious code.
+----- SIGN CREV PROOF -----
+_9VOdeVBMbCxwVLM7DsIuKbHHUfU9bM_5raCGm9xwBNrsnggAbk7zj7YeGo8dq7LsQYezIDmgW6d13O2R6DOAg
+----- END CREV PROOF -----
+
